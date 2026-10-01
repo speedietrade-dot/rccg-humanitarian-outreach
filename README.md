@@ -1,0 +1,1 @@
+Version 9: clean responsive HTML/CSS recreation of the supplied desktop/mobile reference layout. The page remains a real website, not a screenshot.
